@@ -17,3 +17,5 @@ An advanced automation tool that **boosts visits** on any **Linktree** profile u
 ```bash
 git clone https://github.com/bouaafia/Linktree-Auto-Visitor-Bot.git
 cd Linktree-Auto-Visitor-Bot
+pip install -r requirements.txt
+python main.py
