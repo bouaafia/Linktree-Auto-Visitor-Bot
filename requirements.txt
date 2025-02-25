@@ -1,0 +1,5 @@
+selenium
+requests
+fake_useragent
+colorama
+webdriver_manager
