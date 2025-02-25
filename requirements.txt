@@ -3,3 +3,4 @@ requests
 fake_useragent
 colorama
 webdriver_manager
+webbrowser
